@@ -1,0 +1,74 @@
+@CHARSET "UTF-8";
+
+	.jx{
+	text-align:center;
+	margin-top:30px;
+
+	font-size:50px;
+	color:black;
+	}
+	.center{
+	margin-top:100px;
+	}
+	.biao{
+	 text-align:center;
+	 border:1px solid #FCFCFC;
+	 width:500px;
+	 color:#FCFCFC;
+	
+	 font-size:20px;
+	 padding:50px 20px;
+	}
+    .biaoti{
+	 text-align:center;
+	 margin:30px auto;
+	 font-size:23px;
+    }
+	.biaotou{
+	 width:25%;
+	 height:45px; 
+	}
+	.neirong{
+	width:75%;
+	height:45px;
+	
+	}
+	a {text-decoration: none;}
+	.btn,.xg,.btnt{
+	font-size:20px;     
+	color:#FCFCFC; 
+	display:inline-block;    
+	width:100px;        
+	height:30px;         
+	line-height:30px;   
+	border:1px solid #FCFCFC;
+	text-align:center;
+	
+	 font-size:20px;
+	background-color: #FCFCFC; 
+	background:-webkit-linear-gradient(top,#3DA7E1,#72EBFE);
+	}  
+	.btn:hover,.xg:hover,.btnt:hover{
+	background:-webkit-linear-gradient(top, #72EBFE, #3DA7E1);
+	}
+	.biaoti{
+	text-align:center;
+	margin:30px auto;
+	font-size:30px;
+	}
+	input,select{
+	width:90%;
+	height:28px;
+	color:#FCFCFC;
+	border:1px solid #FCFCFC ;
+	background:rgba(0,0,0,0);
+	}
+	#tishi{
+	text-align:center;  
+	margin-top:30px;
+	font-size:14px;
+	color:red;
+	}
+	option{
+
+	}

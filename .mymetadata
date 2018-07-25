@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="communion"
+  id="myeclipse.1525766363130"
+  context-root="/communion"
+  j2ee-spec="5.0"
+  archive="communion.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
